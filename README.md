@@ -3,6 +3,8 @@
 - 🔭 Hoje trabalho como engenheiro de software
 - 🌱 Python learner / Procurando projetos para contribuir / Criando conteúdos no Medium
 
+![guirisouza GitHub stats](https://github-readme-stats.vercel.app/api?username=guirisouza&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirisouza&layout=compact)
 
 ### Contatos
