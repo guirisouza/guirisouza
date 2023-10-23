@@ -1,7 +1,7 @@
 ### Olá, me chamo Guilherme Ribeiro 👋
 
 - 🔭 Hoje trabalho como engenheiro de software
-- 🌱 Python learner / Procurando projetos para contribuir / Escrevendo conteúdos
+- 🌱 Python learner / Procurando projetos para contribuir / Criando conteúdos no Medium
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirisouza&layout=compact)
 
